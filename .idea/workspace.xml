@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdd316fd-ef25-4592-9294-cda75cdca241" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="33f5dcd7-55ef-4c28-9851-79a76a9574b6" />
+  <component name="ProjectId" id="1qXIW9k31OvmQsRa8JC6QW5MXRK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/wines-description" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/wines-description" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/images/wines" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8081/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd316fd-ef25-4592-9294-cda75cdca241" name="Default Changelist" comment="" />
+      <created>1617219538624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617219538624</updated>
+      <workItem from="1617219540111" duration="48000" />
+      <workItem from="1617219660679" duration="27170000" />
+      <workItem from="1617559224021" duration="2938000" />
+      <workItem from="1617660472743" duration="1424000" />
+      <workItem from="1618177611094" duration="9243000" />
+      <workItem from="1618224525239" duration="378000" />
+      <workItem from="1618260091874" duration="688000" />
+      <workItem from="1618260823786" duration="4654000" />
+      <workItem from="1618272147658" duration="18000" />
+      <workItem from="1618272194782" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="104" key="#Deployment" timestamp="1617221865069">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="285" y="104" key="#Deployment/0.25.1440.815@0.25.1440.815" timestamp="1617221865069" />
+    <state x="318" y="118" key="#Options" timestamp="1617221664837">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="318" y="118" key="#Options/0.25.1440.815@0.25.1440.815" timestamp="1617221664837" />
+    <state x="150" y="101" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617221840916">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="150" y="101" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.815@0.25.1440.815" timestamp="1617221840916" />
+    <state x="401" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618178653563">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="401" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.815@0.25.1440.815" timestamp="1618178653563" />
+    <state x="123" y="78" width="1053" height="728" key="SettingsEditor" timestamp="1617220760937">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="123" y="78" width="1053" height="728" key="SettingsEditor/0.25.1440.815@0.25.1440.815" timestamp="1617220760937" />
+    <state width="542" height="445" key="SwitcherDM" timestamp="1618263792601">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="542" height="445" key="SwitcherDM/0.25.1440.815@0.25.1440.815" timestamp="1618263792601" />
+    <state x="387" y="197" width="597" height="490" key="find.popup" timestamp="1618186703880">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="387" y="197" width="597" height="490" key="find.popup/0.25.1440.815@0.25.1440.815" timestamp="1618186703880" />
+    <state x="350" y="199" key="run.anything.popup" timestamp="1617221749967">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="350" y="199" key="run.anything.popup/0.25.1440.815@0.25.1440.815" timestamp="1617221749967" />
+  </component>
+</project>
