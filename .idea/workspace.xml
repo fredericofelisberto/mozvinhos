@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd316fd-ef25-4592-9294-cda75cdca241" name="Default Changelist" comment="" />
+    <list default="true" id="bdd316fd-ef25-4592-9294-cda75cdca241" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="33f5dcd7-55ef-4c28-9851-79a76a9574b6" />
   <component name="ProjectId" id="1qXIW9k31OvmQsRa8JC6QW5MXRK" />
@@ -71,6 +77,8 @@
       <workItem from="1618260823786" duration="4654000" />
       <workItem from="1618272147658" duration="18000" />
       <workItem from="1618272194782" duration="11000" />
+      <workItem from="1618272215136" duration="462000" />
+      <workItem from="1622153237668" duration="1438000" />
     </task>
     <servers />
   </component>
